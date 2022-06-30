@@ -76,6 +76,7 @@ If you have built a SCIM Gateway and would like to add it to this list, please f
 * Add any new partners in alphabetical order.
 * Limit your entries to 500 words.
 * Ensure that you provide contact information for customers to learn more.
+* List applications that are not found in the Azure AD application gallery, to avoid duplication.
 
 # Disclaimer
 For independent software vendors: The Microsoft Azure Active Directory Application Gallery Terms & Conditions, excluding Sections 2–4, apply to this Partner-Driven Integrations Catalog (https://aka.ms/PartnerDrivenProvisioning, the “Integrations Catalog”). References to the “Gallery” shall be read as the “Integrations Catalog” and references to an “App” shall be read as “Integration”.  
