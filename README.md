@@ -26,7 +26,7 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 * Company website: https://www.aquera.com/applications.html
 * Contact information: https://www.aquera.com/contact-us.html
 
-### Applications supported
+### Popular applications supported
 3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
 * ADP
 * Concur
@@ -40,7 +40,7 @@ We Are Experts In Identity & Access Management and Data Center Management.
 * Company website: https://www.idmworks.com/
 * Contact information: 
 
-### Applications supported
+### Popular applications supported
 * Cerner
 * Epic
 * RACF
