@@ -21,7 +21,7 @@ In cases where an application does not support SCIM, partners have built gateway
 ## Available partner-driven integrations
 ### Aquera
 #### Description
-The Aquera Identity Integration Platform as a Service closes the connectivity gaps for real-time identity governance and lifecycle management workflows. The platform offers SCIM gateway services for account provisioning and aggregation, orchestration services for user and password synchronization, and workflow services for the governance of disconnected applications.
+The Aquera Identity Integration Platform as a Service closes the connectivity gaps for real-time identity governance and lifecycle management workflows. The platform offers SCIM gateway services for account provisioning and aggregation. Out of-the-box and built on-demand connectivity is plug-n-play from any identity management platform or HR application to any cloud or on-premises application, database or directory. The identity integrations require zero coding and rapidly deploy in minutes.
 #### Contact information
 * Company website: https://www.aquera.com/applications.html
 * Contact information: https://www.aquera.com/contact-us.html
