@@ -27,7 +27,7 @@ The Aquera Identity Integration Platform as a Service closes the connectivity ga
 * Contact information: https://www.aquera.com/contact-us.html
 
 #### Popular applications supported
-3 apps listed below for reference. Catalog contains [200+](https://www.aquera.com/applications.html).
+3 apps listed below for reference. Catalog contains [500+](https://www.aquera.com/applications.html).
 * ADP
 * Concur
 * Calendly
